@@ -1,0 +1,15 @@
+{
+  "style": "photo",
+  "photo": "photo.jpg",
+  "photo_pos": "50% 15%",
+  "kicker": "📊 機率",
+  "headline": "Anthropic 今晚上市\n開盤價會開多少？",
+  "headline_size": 80,
+  "odds": [
+    {"label": "100–110 美元", "pct": 37},
+    {"label": "90–100 美元", "pct": 37},
+    {"label": "110–120 美元", "pct": 14}
+  ],
+  "note": "IPO 價 83 美元｜國外預測市場｜11.19 21:13",
+  "credit": "Photo: TechCrunch / CC BY 2.0"
+}

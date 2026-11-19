@@ -1,0 +1,1002 @@
+{
+  "fetched_at_utc": "2026-11-19 13:13:44",
+  "query": "anthropic ipo",
+  "events": [
+    {
+      "title": "Anthropic IPO Closing Market Cap",
+      "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 14114149.944694,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+          "label": "<$1.25T",
+          "outcomes": {
+            "Yes": 0.22,
+            "No": 0.78
+          },
+          "volume": "3361287.115108",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+          "label": "$1.25–$1.5T",
+          "outcomes": {
+            "Yes": 0.471,
+            "No": 0.529
+          },
+          "volume": "1136254.1258629998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
+          "label": "$1.5–$1.75T",
+          "outcomes": {
+            "Yes": 0.2145,
+            "No": 0.7855
+          },
+          "volume": "1838930.4260979998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
+          "label": "$1.75–$2.0T",
+          "outcomes": {
+            "Yes": 0.0505,
+            "No": 0.9495
+          },
+          "volume": "1972232.1169830002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?",
+          "label": "$2.0–$2.25T",
+          "outcomes": {
+            "Yes": 0.0185,
+            "No": 0.9815
+          },
+          "volume": "1842196.8173330002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?",
+          "label": "$2.25–$2.5T",
+          "outcomes": {
+            "Yes": 0.0085,
+            "No": 0.9915
+          },
+          "volume": "1143339.707118",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?",
+          "label": "$2.5–$2.75T",
+          "outcomes": {
+            "Yes": 0.0045,
+            "No": 0.9955
+          },
+          "volume": "764343.6161190001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?",
+          "label": "$2.75–$3.0T",
+          "outcomes": {
+            "Yes": 0.0035,
+            "No": 0.9965
+          },
+          "volume": "701381.8423840001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
+          "label": "$3.0T+",
+          "outcomes": {
+            "Yes": 0.0025,
+            "No": 0.9975
+          },
+          "volume": "849968.0719529999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic not IPO by December 31, 2027?",
+          "label": "No IPO by December 31, 2027",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "504216.105735",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO closing market cap above ___ ?",
+      "slug": "anthropic-ipo-closing-market-cap-above",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 1668405.706087,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Anthropic IPO closing market cap above $1.5T?",
+          "label": "$1.5T",
+          "outcomes": {
+            "Yes": 0.329,
+            "No": 0.671
+          },
+          "volume": "195134.128413",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.75T?",
+          "label": "$1.75T",
+          "outcomes": {
+            "Yes": 0.1015,
+            "No": 0.8985
+          },
+          "volume": "146500.606782",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $2T?",
+          "label": "$2T",
+          "outcomes": {
+            "Yes": 0.0475,
+            "No": 0.9525
+          },
+          "volume": "85145.26926899998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $2.25T?",
+          "label": "$2.25T",
+          "outcomes": {
+            "Yes": 0.0165,
+            "No": 0.9835
+          },
+          "volume": "25595.956116",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $2.5T?",
+          "label": "$2.5T",
+          "outcomes": {
+            "Yes": 0.015,
+            "No": 0.985
+          },
+          "volume": "16417.247255000002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $2.75T?",
+          "label": "$2.75T",
+          "outcomes": {
+            "Yes": 0.0105,
+            "No": 0.9895
+          },
+          "volume": "1592.3720700000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $3T?",
+          "label": "$3T",
+          "outcomes": {
+            "Yes": 0.0025,
+            "No": 0.9975
+          },
+          "volume": "5436.111500000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.25T?",
+          "label": "$1.25T",
+          "outcomes": {
+            "Yes": 0.795,
+            "No": 0.205
+          },
+          "volume": "101973.67339099999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.0T?",
+          "label": "$1.0T",
+          "outcomes": {
+            "Yes": 0.9915,
+            "No": 0.0085
+          },
+          "volume": "97484.489782",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.2T?",
+          "label": "$1.2T",
+          "outcomes": {
+            "Yes": 0.895,
+            "No": 0.105
+          },
+          "volume": "66180.814892",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.3T?",
+          "label": "$1.3T",
+          "outcomes": {
+            "Yes": 0.72,
+            "No": 0.28
+          },
+          "volume": "19242.751905",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.35T?",
+          "label": "$1.35T",
+          "outcomes": {
+            "Yes": 0.585,
+            "No": 0.415
+          },
+          "volume": "15800.348395",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.4T?",
+          "label": "$1.4T",
+          "outcomes": {
+            "Yes": 0.515,
+            "No": 0.485
+          },
+          "volume": "30296.993902",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.45T?",
+          "label": "$1.45T",
+          "outcomes": {
+            "Yes": 0.375,
+            "No": 0.625
+          },
+          "volume": "15603.792062",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.6T?",
+          "label": "$1.6T",
+          "outcomes": {
+            "Yes": 0.225,
+            "No": 0.775
+          },
+          "volume": "27001.760951",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Anthropic IPO closing market cap above $1.1T?",
+          "label": "$1.1T",
+          "outcomes": {
+            "Yes": 0.9575,
+            "No": 0.0425
+          },
+          "volume": "818999.389402",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO by __?",
+      "slug": "anthropic-ipo-by",
+      "endDate": "2027-01-01T04:59:00Z",
+      "volume": 9030672.489813,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic IPO by June 30, 2026?",
+          "label": "June 30, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "32230.993123000022",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-10-26T21:50:41.465272Z"
+        },
+        {
+          "question": "Will Anthropic IPO by July 31, 2026?",
+          "label": "July 31, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "75771.96042100003",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-10-26T21:50:41.748368Z"
+        },
+        {
+          "question": "Will Anthropic IPO by September 30, 2026?",
+          "label": "September 30, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "1103612.160755",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-10-26T21:50:42.210895Z"
+        },
+        {
+          "question": "Will Anthropic IPO by December 31, 2026?",
+          "label": "December 31, 2026",
+          "outcomes": {
+            "Yes": 0.999,
+            "No": 0.001
+          },
+          "volume": "2174536.8243130003",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by October 31, 2026?",
+          "label": "October 31, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "1532916.8885989995",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-11-01T11:40:27.52951Z"
+        },
+        {
+          "question": "Will Anthropic IPO by September 15, 2026?",
+          "label": "September 15, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "325159.9918419999",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-10-26T21:50:41.931929Z"
+        },
+        {
+          "question": "Will Anthropic IPO by October 15, 2026?",
+          "label": "October 15, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "247418.149012",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-10-26T21:50:42.602578Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 30, 2026?",
+          "label": "November 30, 2026",
+          "outcomes": {
+            "Yes": 0.9985,
+            "No": 0.0015
+          },
+          "volume": "927798.3963049998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 15, 2026?",
+          "label": "November 15, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "530065.651055",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-11-16T16:05:08.655696Z"
+        },
+        {
+          "question": "Will Anthropic IPO by December 15, 2026?",
+          "label": "December 15, 2026",
+          "outcomes": {
+            "Yes": 0.9995,
+            "No": 0.0005
+          },
+          "volume": "539682.2876009999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 25, 2026?",
+          "label": "November 25, 2026",
+          "outcomes": {
+            "Yes": 0.998,
+            "No": 0.002
+          },
+          "volume": "177812.99227699998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 20, 2026?",
+          "label": "November 20, 2026",
+          "outcomes": {
+            "Yes": 0.998,
+            "No": 0.002
+          },
+          "volume": "349568.463809",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 19, 2026?",
+          "label": "November 19, 2026",
+          "outcomes": {
+            "Yes": 0.9985,
+            "No": 0.0015
+          },
+          "volume": "375555.11980799993",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 18, 2026?",
+          "label": "November 18, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "180803.34821899998",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-11-19T13:07:15.544095Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 17, 2026?",
+          "label": "November 17, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "163331.66622899997",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-11-19T03:31:18.742916Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 23, 2026?",
+          "label": "November 23, 2026",
+          "outcomes": {
+            "Yes": 0.9975,
+            "No": 0.0025
+          },
+          "volume": "84175.03843100001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 24, 2026?",
+          "label": "November 24, 2026",
+          "outcomes": {
+            "Yes": 0.9965,
+            "No": 0.0035
+          },
+          "volume": "39565.767199",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:07:02.67393Z"
+        },
+        {
+          "question": "Will Anthropic IPO by November 16, 2026?",
+          "label": "November 16, 2026",
+          "outcomes": {
+            "Yes": 0.0,
+            "No": 1.0
+          },
+          "volume": "170666.79081500001",
+          "closed": true,
+          "active": true,
+          "updatedAt": "2026-11-18T04:09:48.255197Z"
+        }
+      ]
+    },
+    {
+      "title": "What will Anthropic's IPO valuation be?",
+      "slug": "what-will-anthropics-ipo-valuation-be",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 965336.533869,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic's IPO valuation be less than $1.25T?",
+          "label": "<$1.25T",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "95045.257399",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
+          "label": "$1.25–$1.50T",
+          "outcomes": {
+            "Yes": 0.137,
+            "No": 0.863
+          },
+          "volume": "241013.902929",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be between $1.50T and $1.75T?",
+          "label": "$1.50–$1.75T",
+          "outcomes": {
+            "Yes": 0.766,
+            "No": 0.234
+          },
+          "volume": "228663.18954599998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be between $1.75T and $2.00T?",
+          "label": "$1.75–$2.00T",
+          "outcomes": {
+            "Yes": 0.0015,
+            "No": 0.9985
+          },
+          "volume": "202001.66718400002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be between $2.00T and $2.25T?",
+          "label": "$2.00–$2.25T",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "85583.50993100001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be between $2.25T and $2.50T?",
+          "label": "$2.25–$2.50T",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "33282.616664999994",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic's IPO valuation be $2.50T or more?",
+          "label": "$2.50T+",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "48966.906766",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        },
+        {
+          "question": "Will Anthropic not IPO by December 31, 2027?",
+          "label": "No IPO by December 31, 2027",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "30779.483449",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:09:00.054463Z"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO: Closing Price above IPO Price on First Day?",
+      "slug": "anthropic-ipo-closing-price-above-ipo-price-on-first-day",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 294438.256312,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Anthropic IPO: Closing Price above IPO Price on First Day?",
+          "label": null,
+          "outcomes": {
+            "Yes": 0.9745,
+            "No": 0.0255
+          },
+          "volume": "294438.256312",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO Closing Market Cap (Middle Brackets)",
+      "slug": "anthropic-ipo-closing-market-cap-979",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 1315959.902349,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic’s market cap be less than 0.6T at market close on IPO day by December 31 2027?",
+          "label": "<0.6T",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "42298.75053",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic’s market cap be between 0.6T and 0.9T at market close on IPO day by December 31 2027?",
+          "label": "0.6–0.9T",
+          "outcomes": {
+            "Yes": 0.0075,
+            "No": 0.9925
+          },
+          "volume": "107422.512956",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic’s market cap be between 0.9T and 1.2T at market close on IPO day by December 31 2027?",
+          "label": "0.9–1.2T",
+          "outcomes": {
+            "Yes": 0.102,
+            "No": 0.898
+          },
+          "volume": "233479.568695",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic’s market cap be between 1.2T and 1.5T at market close on IPO day by December 31 2027?",
+          "label": "1.2–1.5T",
+          "outcomes": {
+            "Yes": 0.5885,
+            "No": 0.4115
+          },
+          "volume": "142004.77987300002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic’s market cap be between 1.5T and 1.8T at market close on IPO day by December 31 2027?",
+          "label": "1.5–1.8T",
+          "outcomes": {
+            "Yes": 0.283,
+            "No": 0.717
+          },
+          "volume": "162749.247205",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?",
+          "label": "1.8T+",
+          "outcomes": {
+            "Yes": 0.0435,
+            "No": 0.9565
+          },
+          "volume": "542911.654033",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic not IPO by December 31 2027?",
+          "label": "No IPO by December 31, 2027",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "85093.38905699998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        }
+      ]
+    },
+    {
+      "title": "How much will Anthropic raise in its IPO?",
+      "slug": "how-much-will-anthropic-raise-in-its-ipo",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 381925.332518,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic raise less than $65B in its IPO?",
+          "label": "<$65B",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "55429.556794000004",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic raise between $65B and $75B in its IPO?",
+          "label": "$65B to $75B",
+          "outcomes": {
+            "Yes": 0.0015,
+            "No": 0.9985
+          },
+          "volume": "44739.58573399999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic raise between $75B and $85B in its IPO?",
+          "label": "$75B to $85B",
+          "outcomes": {
+            "Yes": 0.9975,
+            "No": 0.0025
+          },
+          "volume": "87209.102025",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic raise between $85B and $95B in its IPO?",
+          "label": "$85B to $95B",
+          "outcomes": {
+            "Yes": 0.0025,
+            "No": 0.9975
+          },
+          "volume": "83922.83165899999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic raise between $95B and $105B in its IPO?",
+          "label": "$95B to $105B",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "45162.753197",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic raise between $105B and $115B in its IPO?",
+          "label": "$105B to $115B",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "34408.09646",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic raise between $115B and $125B in its IPO?",
+          "label": "$115B to $125B",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "17556.439937999996",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:11:00.868708Z"
+        },
+        {
+          "question": "Will Anthropic raise between $125B and $135B in its IPO?",
+          "label": "$125B to $135B",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "4560.140778",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:01:01.203913Z"
+        },
+        {
+          "question": "Will Anthropic raise at least $135B in its IPO?",
+          "label": "$135B+",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "8936.825933",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:01:01.203913Z"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic opening share price on IPO day?",
+      "slug": "anthropic-opening-share-price-on-ipo-day",
+      "endDate": "2028-01-01T04:59:00Z",
+      "volume": 84030.572839,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Anthropic open below $70 on its first trading day?",
+          "label": "<$70",
+          "outcomes": {
+            "Yes": 0.0095,
+            "No": 0.9905
+          },
+          "volume": "9188.804143000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open between $70 and $80 on its first trading day?",
+          "label": "$70 to $80",
+          "outcomes": {
+            "Yes": 0.005,
+            "No": 0.995
+          },
+          "volume": "9761.09139",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open between $80 and $90 on its first trading day?",
+          "label": "$80 to $90",
+          "outcomes": {
+            "Yes": 0.09,
+            "No": 0.91
+          },
+          "volume": "11989.411342",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open between $90 and $100 on its first trading day?",
+          "label": "$90 to $100",
+          "outcomes": {
+            "Yes": 0.365,
+            "No": 0.635
+          },
+          "volume": "10870.234926",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open between $100 and $110 on its first trading day?",
+          "label": "$100 to $110",
+          "outcomes": {
+            "Yes": 0.3665,
+            "No": 0.6335
+          },
+          "volume": "8046.576617999999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open between $110 and $120 on its first trading day?",
+          "label": "$110 to $120",
+          "outcomes": {
+            "Yes": 0.1425,
+            "No": 0.8575
+          },
+          "volume": "7920.765254000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "Will Anthropic open at $120 or more on its first trading day?",
+          "label": "$120+",
+          "outcomes": {
+            "Yes": 0.0215,
+            "No": 0.9785
+          },
+          "volume": "23520.722166",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        },
+        {
+          "question": "No Anthropic IPO by December 31, 2027?",
+          "label": "No IPO by December 31, 2027",
+          "outcomes": {
+            "Yes": 0.0005,
+            "No": 0.9995
+          },
+          "volume": "2732.9670000000006",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-19T13:13:00.038811Z"
+        }
+      ]
+    }
+  ]
+}
