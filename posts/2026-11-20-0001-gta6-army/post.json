@@ -1,0 +1,13 @@
+{
+  "style": "photo",
+  "photo": "photo.jpg",
+  "photo_pos": "50% 30%",
+  "headline": "美軍拿 GTA 6 留人\n首日會破紀錄嗎？",
+  "headline_size": 80,
+  "odds": [
+    {"label": "會破紀錄", "pct": 99},
+    {"label": "不會", "pct": 1}
+  ],
+  "note": "43 人為此留營｜國外預測市場｜11.20 00:00",
+  "credit": "Photo: Jared Crain, U.S. Army / Public domain"
+}
