@@ -1,0 +1,1026 @@
+{
+  "fetched_at_utc": "2026-11-20 03:57:10",
+  "query": "GTA VI streamer",
+  "events": [
+    {
+      "title": "Which Kick streamer will finish GTA VI first?",
+      "slug": "which-kick-streamer-will-finish-gta-vi-first",
+      "endDate": "2027-01-01T04:59:00Z",
+      "volume": 4803.027587,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will dcampion be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "dcampion",
+          "outcomes": {
+            "Yes": 0.675,
+            "No": 0.325
+          },
+          "volume": "1752.8384",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Kaysan be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Kaysan",
+          "outcomes": {
+            "Yes": 0.023,
+            "No": 0.977
+          },
+          "volume": "231.052266",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Lord Kebun be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Lord Kebun",
+          "outcomes": {
+            "Yes": 0.125,
+            "No": 0.875
+          },
+          "volume": "279.277579",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Omie be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Omie",
+          "outcomes": {
+            "Yes": 0.0185,
+            "No": 0.9815
+          },
+          "volume": "523.460015",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Ramee be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Ramee",
+          "outcomes": {
+            "Yes": 0.025,
+            "No": 0.975
+          },
+          "volume": "316.13",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will xQc be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "xQc",
+          "outcomes": {
+            "Yes": 0.185,
+            "No": 0.815
+          },
+          "volume": "1479.139528",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will none of these Kick streamers finish GTA VI by December 31, 2026?",
+          "label": "Nobody",
+          "outcomes": {
+            "Yes": 0.016,
+            "No": 0.984
+          },
+          "volume": "221.129799",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "Which Kick streamer will finish GTA VI second?",
+      "slug": "which-kick-streamer-will-finish-gta-vi-second",
+      "endDate": "2027-01-01T04:59:00Z",
+      "volume": 262.2,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will dcampion be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "dcampion",
+          "outcomes": {
+            "Yes": 0.44,
+            "No": 0.56
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:47:01.842007Z"
+        },
+        {
+          "question": "Will Kaysan be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Kaysan",
+          "outcomes": {
+            "Yes": 0.43,
+            "No": 0.57
+          },
+          "volume": "60",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:45:01.799306Z"
+        },
+        {
+          "question": "Will Lord Kebun be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Lord Kebun",
+          "outcomes": {
+            "Yes": 0.425,
+            "No": 0.575
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Omie be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Omie",
+          "outcomes": {
+            "Yes": 0.09,
+            "No": 0.91
+          },
+          "volume": "20",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:43:02.259192Z"
+        },
+        {
+          "question": "Will Ramee be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "Ramee",
+          "outcomes": {
+            "Yes": 0.425,
+            "No": 0.575
+          },
+          "volume": "40",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+          "label": "xQc",
+          "outcomes": {
+            "Yes": 0.42,
+            "No": 0.58
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:47:01.842007Z"
+        },
+        {
+          "question": "Will fewer than two of these Kick streamers finish GTA VI by December 31, 2026?",
+          "label": "Nobody",
+          "outcomes": {
+            "Yes": 0.246,
+            "No": 0.754
+          },
+          "volume": "142.2",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "Who will finish GTA VI first?",
+      "slug": "who-will-finish-gta-vi-first",
+      "endDate": "2027-01-01T04:59:00Z",
+      "volume": 12231.254046,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Adin Ross be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Adin Ross",
+          "outcomes": {
+            "Yes": 0.0055,
+            "No": 0.9945
+          },
+          "volume": "343.631666",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Alanzoka be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Alanzoka",
+          "outcomes": {
+            "Yes": 0.0125,
+            "No": 0.9875
+          },
+          "volume": "358.4855",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will CaseOh be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "CaseOh",
+          "outcomes": {
+            "Yes": 0.004,
+            "No": 0.996
+          },
+          "volume": "290.98749999999995",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will DjMaRiiO be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "DjMaRiiO",
+          "outcomes": {
+            "Yes": 0.005,
+            "No": 0.995
+          },
+          "volume": "335.105148",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "HoneyMad",
+          "outcomes": {
+            "Yes": 0.0055,
+            "No": 0.9945
+          },
+          "volume": "335.105148",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IlloJuan be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "IlloJuan",
+          "outcomes": {
+            "Yes": 0.005,
+            "No": 0.995
+          },
+          "volume": "335.115148",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "IShowSpeed",
+          "outcomes": {
+            "Yes": 0.875,
+            "No": 0.125
+          },
+          "volume": "3714.047321",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Kai Cenat be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Kai Cenat",
+          "outcomes": {
+            "Yes": 0.042,
+            "No": 0.958
+          },
+          "volume": "684.98855",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will N3on be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "N3on",
+          "outcomes": {
+            "Yes": 0.0055,
+            "No": 0.9945
+          },
+          "volume": "306.79949999999997",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will RRaenee be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "RRaenee",
+          "outcomes": {
+            "Yes": 0.005,
+            "No": 0.995
+          },
+          "volume": "276.97950000000003",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Rubius be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Rubius",
+          "outcomes": {
+            "Yes": 0.0055,
+            "No": 0.9945
+          },
+          "volume": "383.936666",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will TheBurntPeanut be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "TheBurntPeanut",
+          "outcomes": {
+            "Yes": 0.018,
+            "No": 0.982
+          },
+          "volume": "335.107048",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Typical Gamer be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Typical Gamer",
+          "outcomes": {
+            "Yes": 0.022,
+            "No": 0.978
+          },
+          "volume": "535.6326899999999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Windah Basudara be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Windah Basudara",
+          "outcomes": {
+            "Yes": 0.0055,
+            "No": 0.9945
+          },
+          "volume": "335.115148",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc be the first of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "xQc",
+          "outcomes": {
+            "Yes": 0.0165,
+            "No": 0.9835
+          },
+          "volume": "1576.058513",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
+          "label": "Nobody",
+          "outcomes": {
+            "Yes": 0.0025,
+            "No": 0.9975
+          },
+          "volume": "2084.1589999999997",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "Who will finish GTA VI second?",
+      "slug": "who-will-finish-gta-vi-second",
+      "endDate": "2027-01-01T04:59:00Z",
+      "volume": 95,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Adin Ross be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Adin Ross",
+          "outcomes": {
+            "Yes": 0.15,
+            "No": 0.85
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Alanzoka be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Alanzoka",
+          "outcomes": {
+            "Yes": 0.445,
+            "No": 0.555
+          },
+          "volume": "40",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will CaseOh be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "CaseOh",
+          "outcomes": {
+            "Yes": 0.255,
+            "No": 0.745
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will DjMaRiiO be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "DjMaRiiO",
+          "outcomes": {
+            "Yes": 0.275,
+            "No": 0.725
+          },
+          "volume": "20",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "HoneyMad",
+          "outcomes": {
+            "Yes": 0.45,
+            "No": 0.55
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IlloJuan be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "IlloJuan",
+          "outcomes": {
+            "Yes": 0.255,
+            "No": 0.745
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "IShowSpeed",
+          "outcomes": {
+            "Yes": 0.405,
+            "No": 0.595
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Kai Cenat be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Kai Cenat",
+          "outcomes": {
+            "Yes": 0.065,
+            "No": 0.935
+          },
+          "volume": "5",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will N3on be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "N3on",
+          "outcomes": {
+            "Yes": 0.155,
+            "No": 0.845
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will RRaenee be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "RRaenee",
+          "outcomes": {
+            "Yes": 0.45,
+            "No": 0.55
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Rubius be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Rubius",
+          "outcomes": {
+            "Yes": 0.455,
+            "No": 0.545
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will TheBurntPeanut be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "TheBurntPeanut",
+          "outcomes": {
+            "Yes": 0.46,
+            "No": 0.54
+          },
+          "volume": "20",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Typical Gamer be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Typical Gamer",
+          "outcomes": {
+            "Yes": 0.45,
+            "No": 0.55
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will Windah Basudara be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "Windah Basudara",
+          "outcomes": {
+            "Yes": 0.475,
+            "No": 0.525
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc be the second of these streamers to finish GTA VI by December 31, 2026?",
+          "label": "xQc",
+          "outcomes": {
+            "Yes": 0.475,
+            "No": 0.525
+          },
+          "volume": null,
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will fewer than two of these streamers finish GTA VI by December 31, 2026?",
+          "label": "Nobody",
+          "outcomes": {
+            "Yes": 0.0025,
+            "No": 0.9975
+          },
+          "volume": "10",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "Kai Cenat finishes GTA VI marathon by...?",
+      "slug": "kai-cenat-finishes-gta-vi-marathon-by",
+      "endDate": "2026-12-02T04:59:00Z",
+      "volume": 250490.05193199997,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 22?",
+          "label": "November 22",
+          "outcomes": {
+            "Yes": 0.0635,
+            "No": 0.9365
+          },
+          "volume": "51253.845068",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 24?",
+          "label": "November 24",
+          "outcomes": {
+            "Yes": 0.265,
+            "No": 0.735
+          },
+          "volume": "63480.271753999994",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 26?",
+          "label": "November 26",
+          "outcomes": {
+            "Yes": 0.645,
+            "No": 0.355
+          },
+          "volume": "51377.725394999994",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 28?",
+          "label": "November 28",
+          "outcomes": {
+            "Yes": 0.705,
+            "No": 0.295
+          },
+          "volume": "38286.914349",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by December 1?",
+          "label": "December 1",
+          "outcomes": {
+            "Yes": 0.875,
+            "No": 0.125
+          },
+          "volume": "35541.259013",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 23?",
+          "label": "November 23",
+          "outcomes": {
+            "Yes": 0.11,
+            "No": 0.89
+          },
+          "volume": "10135.403620000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will Kai Cenat finish his GTA VI marathon by November 25?",
+          "label": "November 25",
+          "outcomes": {
+            "Yes": 0.375,
+            "No": 0.625
+          },
+          "volume": "2605.089273",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        }
+      ]
+    },
+    {
+      "title": "IShowSpeed finishes GTA VI by...?",
+      "slug": "ishowspeed-finishes-gta-vi-by",
+      "endDate": "2026-12-02T04:59:00Z",
+      "volume": 68712.751761,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 22?",
+          "label": "November 22 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9555,
+            "No": 0.0445
+          },
+          "volume": "35851.29728",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 24?",
+          "label": "November 24 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.957,
+            "No": 0.043
+          },
+          "volume": "7623.7535179999995",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 26?",
+          "label": "November 26 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.979,
+            "No": 0.021
+          },
+          "volume": "5436.215746",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 28?",
+          "label": "November 28 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9865,
+            "No": 0.0135
+          },
+          "volume": "4528.68987",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by December 1?",
+          "label": "December 1 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9875,
+            "No": 0.0125
+          },
+          "volume": "1046.6912849999999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 20?",
+          "label": "November 20 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.645,
+            "No": 0.355
+          },
+          "volume": "6139.759496000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 21?",
+          "label": "November 21 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9395,
+            "No": 0.0605
+          },
+          "volume": "4826.76273",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 21, 11:59 AM ET?",
+          "label": "November 21 (11:59 AM ET)",
+          "outcomes": {
+            "Yes": 0.615,
+            "No": 0.385
+          },
+          "volume": "13.6",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T02:37:02.687247Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 20, 5:59 PM ET?",
+          "label": "November 20 (5:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.68,
+            "No": 0.32
+          },
+          "volume": "573.013332",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 20, 11:59 AM ET?",
+          "label": "November 20 (11:59 AM ET)",
+          "outcomes": {
+            "Yes": 0.165,
+            "No": 0.835
+          },
+          "volume": "1496.163108",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will IShowSpeed finish GTA VI by November 19?",
+          "label": "November 19 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.006,
+            "No": 0.994
+          },
+          "volume": "1176.8053960000002",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "xQc finishes GTA VI by...?",
+      "slug": "xqc-finishes-gta-vi-by",
+      "endDate": "2026-12-02T04:59:00Z",
+      "volume": 43341.225934999995,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will xQc finish GTA VI by November 22?",
+          "label": "November 22 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.835,
+            "No": 0.165
+          },
+          "volume": "11405.108065",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 24?",
+          "label": "November 24 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9745,
+            "No": 0.0255
+          },
+          "volume": "1481.151786",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 26?",
+          "label": "November 26 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9705,
+            "No": 0.0295
+          },
+          "volume": "1785.707189",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 28?",
+          "label": "November 28 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9715,
+            "No": 0.0285
+          },
+          "volume": "700.5916440000001",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:51:01.888226Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by December 1?",
+          "label": "December 1 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.9735,
+            "No": 0.0265
+          },
+          "volume": "590.26166",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:37:02.259286Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 23?",
+          "label": "November 23 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.935,
+            "No": 0.065
+          },
+          "volume": "3001.025991",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 21?",
+          "label": "November 21 (11:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.19,
+            "No": 0.81
+          },
+          "volume": "22866.889091999998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:49:01.899364Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 22, 5:59 PM ET?",
+          "label": "November 22 (5:59 PM ET)",
+          "outcomes": {
+            "Yes": 0.685,
+            "No": 0.315
+          },
+          "volume": "468.171429",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 22, 3:59 AM ET?",
+          "label": "November 22 (3:59 AM ET)",
+          "outcomes": {
+            "Yes": 0.375,
+            "No": 0.625
+          },
+          "volume": "844.0126459999999",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will xQc finish GTA VI by November 22, 11:59 AM ET?",
+          "label": "November 22 (11:59 AM ET)",
+          "outcomes": {
+            "Yes": 0.505,
+            "No": 0.495
+          },
+          "volume": "198.30643299999997",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    },
+    {
+      "title": "HoneyMad finishes GTA VI by...?",
+      "slug": "honeymad-finishes-gta-vi-by",
+      "endDate": "2026-12-02T04:59:00Z",
+      "volume": 22257.967509,
+      "closed": false,
+      "markets": [
+        {
+          "question": "Will HoneyMad finish GTA VI by November 22?",
+          "label": "November 22",
+          "outcomes": {
+            "Yes": 0.069,
+            "No": 0.931
+          },
+          "volume": "4989.429529",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad finish GTA VI by November 24?",
+          "label": "November 24",
+          "outcomes": {
+            "Yes": 0.24,
+            "No": 0.76
+          },
+          "volume": "6734.281182",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad finish GTA VI by November 26?",
+          "label": "November 26",
+          "outcomes": {
+            "Yes": 0.65,
+            "No": 0.35
+          },
+          "volume": "3716.51868",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad finish GTA VI by November 28?",
+          "label": "November 28",
+          "outcomes": {
+            "Yes": 0.705,
+            "No": 0.295
+          },
+          "volume": "2841.636035",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        },
+        {
+          "question": "Will HoneyMad finish GTA VI by December 1?",
+          "label": "December 1",
+          "outcomes": {
+            "Yes": 0.77,
+            "No": 0.23
+          },
+          "volume": "3976.1020829999998",
+          "closed": false,
+          "active": true,
+          "updatedAt": "2026-11-20T03:53:02.325514Z"
+        }
+      ]
+    }
+  ]
+}

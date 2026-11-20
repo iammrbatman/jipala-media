@@ -1,0 +1,14 @@
+{
+  "style": "photo",
+  "photo": "photo.jpg",
+  "photo_pos": "50% 20%",
+  "headline": "GTA 6 誰會最先破關？",
+  "headline_size": 84,
+  "odds": [
+    {"label": "IShowSpeed", "pct": 88},
+    {"label": "Kai Cenat", "pct": 4},
+    {"label": "Typical Gamer", "pct": 2}
+  ],
+  "note": "國外預測市場｜11.20 11:57",
+  "credit": "Photo: Chin Yu Chu / CC BY-SA 2.0"
+}
